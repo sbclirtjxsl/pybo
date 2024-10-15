@@ -1,0 +1,521 @@
+.mediaViewInfo {
+	--web-view-name: 05 intro;
+	--web-view-id: n_5_intro;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_5_intro;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_5_intro {
+	position: absolute;
+	width: 1920px;
+	height: 1520px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: 05 intro;
+	--web-view-id: n_5_intro;
+	--web-enable-deep-linking: true;
+}
+#aky {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.aky {
+	mix-blend-mode: soft-light;
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 894px;
+	left: 0px;
+	top: 186px;
+}
+#akz {
+	fill: rgba(217,63,63,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.akz {
+	position: absolute;
+	overflow: visible;
+	width: 1725px;
+	height: 89px;
+	left: -98px;
+	top: 302px;
+}
+#ala {
+	border: 0;
+	left: 304px;
+	top: 319px;
+	position: absolute;
+	overflow: visible;
+	width: 384px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,0.788);
+}
+#alb {
+	fill: rgba(217,63,63,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.alb {
+	position: absolute;
+	overflow: visible;
+	width: 927px;
+	height: 112px;
+	left: 497px;
+	top: 466px;
+}
+#alc {
+	position: absolute;
+	width: 1625.71px;
+	height: 111.223px;
+	left: 176px;
+	top: 68.912px;
+	overflow: visible;
+}
+#ald {
+	fill: rgba(255,255,255,1);
+}
+.ald {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 197px;
+	left: -176px;
+	top: -68.912px;
+}
+#ale {
+	border: 0;
+	left: 1045px;
+	top: 71.088px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#alf {
+	border: 0;
+	left: 630px;
+	top: 71.088px;
+	position: absolute;
+	overflow: visible;
+	width: 332px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#alg {
+	border: 0;
+	left: 341px;
+	top: 71.088px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#alh {
+	position: absolute;
+	width: 42.226px;
+	height: 33.309px;
+	left: 1583.483px;
+	top: 2.589px;
+	overflow: visible;
+}
+#buger {
+	position: absolute;
+	width: 42.226px;
+	height: 33.309px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#alj {
+	position: absolute;
+	width: 39.6px;
+	height: 35.898px;
+	left: 1500.617px;
+	top: 0px;
+	overflow: visible;
+}
+#search {
+	position: absolute;
+	width: 39.601px;
+	height: 35.898px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#all {
+	position: absolute;
+	width: 49.893px;
+	height: 28px;
+	left: 1407.736px;
+	top: 2.589px;
+	overflow: visible;
+}
+#alm {
+	border: 0;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(26,26,26,1);
+}
+#aln {
+	fill: rgba(0,0,0,1);
+}
+.aln {
+	overflow: visible;
+	position: absolute;
+	width: 15.873px;
+	height: 12.432px;
+	left: 34.02px;
+	top: 12.516px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#alo {
+	position: absolute;
+	width: 35.898px;
+	height: 35.898px;
+	left: 1328.843px;
+	top: 0px;
+	overflow: visible;
+}
+#loginn {
+	position: absolute;
+	width: 35.898px;
+	height: 35.898px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#alq {
+	border: 0;
+	left: 1510px;
+	top: 71.088px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#alr {
+	border: 0;
+	left: 1342px;
+	top: 71.088px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#als {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 29.588px;
+	overflow: visible;
+}
+#alt {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#logo {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#alv {
+	border: 0;
+	left: 92.48px;
+	top: 3.82px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: 12LotteMartDreamMedium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1.4px;
+}
+#alw {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#btext {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#aly {
+	border: 0;
+	left: 170.319px;
+	top: 52.013px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: 12LotteMartDreamMedium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(0,0,0,1);
+}
+#alz {
+	position: absolute;
+	width: 1920px;
+	height: 340px;
+	left: 0px;
+	top: 1184px;
+	overflow: visible;
+}
+#ama {
+	fill: rgba(54,77,88,1);
+}
+.ama {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 218px;
+	left: 0px;
+	top: 122px;
+}
+#amb {
+	fill: rgba(194,235,255,1);
+}
+.amb {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 111px;
+	left: 0px;
+	top: 0px;
+}
+#amc {
+	fill: rgba(255,255,255,1);
+}
+.amc {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 11px;
+	left: 0px;
+	top: 111px;
+}
+#amd {
+	border: 0;
+	left: 1167.081px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ame {
+	border: 0;
+	left: 1544.762px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#amf {
+	position: absolute;
+	width: 1646px;
+	height: 153px;
+	left: 137px;
+	top: 162px;
+	overflow: visible;
+}
+#amg {
+	border: 0;
+	left: 342px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1305px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,0.788);
+}
+#amh {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 28px;
+	overflow: visible;
+}
+#ami {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#logo {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#amk {
+	border: 0;
+	left: 92.48px;
+	top: 3.82px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: 12LotteMartDreamMedium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1.4px;
+}
+#aml {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#wtext {
+	position: absolute;
+	width: 273.352px;
+	height: 81.635px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#amn {
+	border: 0;
+	left: 170.319px;
+	top: 52.013px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: 12LotteMartDreamMedium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#bottom {
+	position: absolute;
+	width: 484.427px;
+	height: 51.282px;
+	left: 192px;
+	top: 30px;
+	overflow: visible;
+}
